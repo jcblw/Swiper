@@ -10,7 +10,7 @@
  *
  * Licensed under GPL & MIT
  *
- * Released on: January 29, 2014
+ * Released on: May 15, 2014
 */
 var Swiper = function (selector, params) {
     /*=========================
